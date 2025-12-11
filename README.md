@@ -36,6 +36,7 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
   <img src="LinkedIn%20Tarjeta.png" alt="LinkedIn" width="320">
 </a>
 
+[Sígueme en LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sergiobelvísb)
 
 ---
 
