@@ -7,7 +7,7 @@
 Desarrollador en formación con 19 años y muchas ganas de seguir creciendo.  
 Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desarrollo **frontend y backend**, con experiencia creando páginas web profesionales, configurando servidores (HTTP, DHCP, FTP) y desarrollando varias IA's en Python.
 
-## 🛠️ Habilidades y Tecnologías
+## Habilidades y Tecnologías
 - **Lenguajes:** PHP, JavaScript, HTML, CSS, Java, C++, Python, SQL, Shell de Linux  
 - **Cloud / Infraestructura:** AWS (avanzado)  
 - **Desarrollo Web:** Full Stack, diseño web, creación de servidores, despliegue de aplicaciones  
@@ -19,18 +19,18 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 - Comencé como estudiante en prácticas y fui incorporado a plantilla gracias a mis resultados.  
 - Tareas: atención al cliente, help desk, soporte técnico, instalación de equipos y gestión de copias de seguridad.  
 
-## 🌱 Intereses
+## Intereses
 - Desarrollo de aplicaciones web Full Stack  
 - Aprender nuevas tecnologías y herramientas en frontend y backend  
 - Inteligencia Artificial y soluciones en la nube  
 
-## 📈 Estadísticas
+## Estadísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobelvisb&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🌐 Conecta conmigo
+## Conecta conmigo
 
 <a href="https://www.linkedin.com/in/sergiobelvísb">
   <img src="LinkedIn%20Tarjeta.png" alt="LinkedIn" width="320">
@@ -40,4 +40,4 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 
 ---
 
-¡Siempre aprendiendo y creando cosas nuevas! 🚀
+¡Siempre aprendiendo y creando cosas nuevas!
