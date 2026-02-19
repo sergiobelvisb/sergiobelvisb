@@ -24,10 +24,6 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 - Aprender nuevas tecnologías y herramientas en frontend y backend  
 - Inteligencia Artificial y soluciones en la nube  
 
-## Estadísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobelvisb&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## Conecta conmigo
