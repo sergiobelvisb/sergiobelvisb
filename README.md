@@ -2,7 +2,7 @@
 
 ---
 
-# Hola, soy Sergio Belvís Barba 👋
+# Hola, soy Sergio Belvís Barba.
 
 Desarrollador en formación con 19 años y muchas ganas de seguir creciendo.  
 Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desarrollo **frontend y backend**, con experiencia creando páginas web profesionales, configurando servidores (HTTP, DHCP, FTP) y desarrollando varias IA's en Python.
@@ -13,7 +13,13 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 - **Desarrollo Web:** Full Stack, diseño web, creación de servidores, despliegue de aplicaciones  
 - **Otras competencias:** Soporte técnico, Help Desk, atención al cliente, instalación de equipos y copias de seguridad  
 
-## 💼 Experiencia
+## Experiencia
+**Indra Group** - Full Stack Programmer.
+*feb. 2026 - act. · Madrid, España*
+- Desarrollo y mantenimiento de aplicaciones web utilizando Django, JavaScript y Bootstrap.
+- Implementación de dashboards dinámicos, gráficos interactivos y herramientas de visualización de datos.
+- Integración backend/frontend, gestión de templates, comunicación con APIs y mejoras de interfaz de usuario (UI/UX).
+
 **Difusión Élite** – Especialista en soporte técnico  
 *mar. 2024 - sept. 2024 · Madrid, España*  
 - Comencé como estudiante en prácticas y fui incorporado a plantilla gracias a mis resultados.  
@@ -33,7 +39,3 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 </a>
 
 [Sígueme en LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sergiobelvísb)
-
----
-
-¡Siempre aprendiendo y creando cosas nuevas!
