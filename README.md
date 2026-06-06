@@ -44,8 +44,4 @@ Soporte técnico, help desk, instalación de equipos y gestión de copias de seg
 
 ## Conecta conmigo
 
-<a href="https://www.linkedin.com/in/sergiobelvísb">
-  <img src="LinkedIn%20Tarjeta.png" alt="LinkedIn" width="320">
-</a>
-
 [Sígueme en LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sergiobelvísb)
